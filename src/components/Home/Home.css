@@ -1,0 +1,9 @@
+.component-margin{
+    margin-top: 140px;
+}
+.my-alignment{
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
