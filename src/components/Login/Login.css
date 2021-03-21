@@ -1,0 +1,23 @@
+.or-devider {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+ 
+.or-devider span { 
+     background:#fff; 
+     padding:0 10px; 
+ }
+ .social-border{
+     background: blanchedalmond;
+     border: 1px solid black;
+     padding: 5px 0;
+     border-radius: 20px;
+     text-align: center;
+     color: black;
+ }
+ .social-border{
+     cursor: pointer;
+ }

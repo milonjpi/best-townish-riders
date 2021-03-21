@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "BIKE",
+		"person": "1",
+        "photo": "https://i.ibb.co/kc6cyC3/Frame.png",
+        "rent": 20
+    },
+    {
+        "id": 2,
+        "name": "CAR",
+		"person": "4",
+        "photo": "https://i.ibb.co/2v5PZP9/Frame-2.png",
+        "rent": 70
+    },
+    {
+        "id": 3,
+        "name": "BUS",
+		"person": "10",
+        "photo": "https://i.ibb.co/PrcNcG6/Frame-1.png",
+        "rent": 100
+    },
+    {
+        "id": 4,
+        "name": "TRAIN",
+		"person": "20",
+        "photo": "https://i.ibb.co/ZL6JNVf/Group.png",
+        "rent": 200
+    }
+]

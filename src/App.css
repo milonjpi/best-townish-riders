@@ -6,4 +6,9 @@
 .cursor-pointer{
   cursor: pointer;
 }
+.nav-align a{
+  text-decoration: none;
+  padding: 5px 10px;
+  color: green;
+}
 
