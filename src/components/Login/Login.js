@@ -20,7 +20,7 @@ if (!firebase.apps.length) {
 
 const Login = () => {
   const [newUser, setNewUser] = useState(false);
-  const [loggedInUser, setLoggedInUser] = useContext(UserContext);
+  const [setLoggedInUser] = useContext(UserContext);
   const history = useHistory();
   const location = useLocation();
   const { from } = location.state || { from: { pathname: "/" } };

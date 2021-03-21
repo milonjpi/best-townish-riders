@@ -1,13 +1,12 @@
 import React from "react";
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
-import Button from 'react-bootstrap/Button';
 import { Link } from "react-router-dom";
 import { useContext } from "react";
 import { UserContext } from "../../App";
 
 const Header = () => {
-  const [loggedInUser, setLoggedInUser] = useContext(UserContext);
+  const [loggedInUser] = useContext(UserContext);
   return (
     <div className="px-md-5 py-3">
       <Navbar expand="lg">

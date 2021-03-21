@@ -15,7 +15,6 @@ const Destination = () => {
     searchInfo[e.target.name] = e.target.value;
     setSearchValue(searchInfo);
   };
-  const AnyReactComponent = ({ text }) => <div>{text}</div>
   return (
     <div className="row mx-md-5">
       <div className="col-lg-4 mb-3">
